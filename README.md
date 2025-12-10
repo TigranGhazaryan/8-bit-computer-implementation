@@ -9,3 +9,8 @@ The stack pointers and base pointers will have their own challenges so more upda
 
 Once the file is ready to be run, and tested I will add the executable approach. Otherwise follow Icarus Verilog compiling process.
 I use Gtkwave to simulate binary signals and see each bit and each signal in the final output.  
+
+
+Computer_tbv file has the Test setup for the initialization of RAM, Control signals, and the bit Constants for the Opcodes, the fetch, decode cycle functions, etc. 
+
+I will be more thorough with the descriptions later, my apologies for the mess :)
